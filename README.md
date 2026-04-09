@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Forge of Origin](https://forgeoforigin.com/)
 
-- 🌱 I’m currently learning **Game modification**
+- 🌱 I’m interesting in learning more about AI and the future of AI.
 
 - 📫 How to reach me **Discord: smileyboy**
 
