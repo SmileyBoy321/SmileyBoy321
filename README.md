@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smileyboy321&label=Profile%20views&color=0e75b6&style=flat" alt="smileyboy321" /> </p>
 
-- 🔭 I’m currently working on [Forge of Origin](https://forgeoforigin.com/)
+- 🔭 I’m currently learning cybersecurity.
 
 - 🌱 I’m interesting in learning more about AI and the future of AI.
 
