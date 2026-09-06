@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently learning cybersecurity.
 
-- 🌱 I’m interesting in learning more about AI and the future of AI.
-
 - 📫 How to reach me **Discord: smileyboy**
 
 <h3 align="left">Support:</h3>
