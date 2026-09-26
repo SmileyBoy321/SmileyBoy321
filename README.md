@@ -23,6 +23,7 @@ Engineer from 🇪🇪 **Estonia** who likes turning AI ideas into things people
 - 🔌 **Integrations:** REST APIs, ATS APIs (Greenhouse / Lever / Ashby), the Gmail API, scrapers, scheduled pipelines
 - 💸 **Right-sizing models:** small local models for bulk work, larger ones only where quality matters, and cloud APIs when they're worth the cost
 - 🛡️ **Security mindset:** credential rotation, infra monitoring with alerting, and servers that don't trust the client
+- 🔍 **AI-assisted reverse engineering:** Android APK and network traffic analysis with jadx, apktool, Ghidra and Frida, driven with Claude Code. I use what I learn to build defences, like Ring Zero's server that never trusts the client
 - 🚀 **Production experience:** [Forge of Origin](https://forgeoforigin.com) serves **7,500+ users** across **49+ releases**
 - 🤖 I build with **Claude Code** every day, from prototype through debugging to shipping
 
@@ -88,6 +89,12 @@ Engineer from 🇪🇪 **Estonia** who likes turning AI ideas into things people
 
 **Cloud, Data & Infra**<br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,cloudflare,supabase,postgres,sqlite,githubactions&theme=dark" alt="Cloud and infra" />
+
+**Security & Reverse Engineering**<br/>
+<img src="https://img.shields.io/badge/Ghidra-C0392B?style=for-the-badge" height="48" alt="Ghidra" />
+<img src="https://img.shields.io/badge/Frida-EF6456?style=for-the-badge" height="48" alt="Frida" />
+<img src="https://img.shields.io/badge/jadx-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="48" alt="jadx" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="48" alt="Wireshark" />
 
 **Delivery**<br/>
 <img src="https://skillicons.dev/icons?i=git,postman,figma&theme=dark" alt="Tools" />
