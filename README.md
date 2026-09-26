@@ -70,10 +70,10 @@ Engineer from 🇪🇪 **Estonia** who likes turning AI ideas into things people
 
 | Project | What it is | Stack |
 |---|---|---|
-| ⚔️ **[Forge of Origin](https://forgeoforigin.com)** | Character build planner for an MMORPG: 36 classes, skill trees, a progression simulator, build sharing. **7,500+ users, 49+ releases** | JS · Supabase (Postgres, RLS) · Cloudflare Workers · CI/CD |
-| 🛰️ **Ring Zero** | Android roguelite with a **server-authoritative** backend: the server replays each run deterministically and signs tokens with HMAC, so it never trusts client results | Godot · Python · SQLite |
-| 🎥 **FormFrame** | Frame-by-frame sports video analysis app: VFR-safe frame stepping, drawing tools, side-by-side compare | Kotlin · Jetpack Compose · CameraX · Media3 |
-| 🎬 **[slowmo-fix](https://github.com/SmileyBoy321/slowmo-fix)** | Fixes slow-motion videos that play at normal speed (Qualcomm CamX bug). No root needed | Python · Android |
+| ⚔️&nbsp;**[Forge&nbsp;of&nbsp;Origin](https://forgeoforigin.com)** | Character build planner for an MMORPG: 36 classes, skill trees, a progression simulator, build sharing. **7,500+ users, 49+ releases** | JS · Supabase (Postgres, RLS) · Cloudflare Workers · CI/CD |
+| 🛰️&nbsp;**Ring&nbsp;Zero** | Android roguelite with a **server-authoritative** backend: the server replays each run deterministically and signs tokens with HMAC, so it never trusts client results | Godot · Python · SQLite |
+| 🎥&nbsp;**FormFrame** | Frame-by-frame sports video analysis app: VFR-safe frame stepping, drawing tools, side-by-side compare | Kotlin · Jetpack Compose · CameraX · Media3 |
+| 🎬&nbsp;**[slowmo&#8209;fix](https://github.com/SmileyBoy321/slowmo-fix)** | Fixes slow-motion videos that play at normal speed (Qualcomm CamX bug). No root needed | Python · Android |
 
 ---
 
